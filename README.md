@@ -1,6 +1,6 @@
 ## Hello, I'm [Tarun Sahnan!]() 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green&style=plastic" alt="tarunsahnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsahnan&color=green&style=plastic" alt="tarunsahnan" /> </p>
 
 <a href="https://www.linkedin.com/in/tarun-sahnan/">
   <img align="left" alt="Tarun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
