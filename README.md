@@ -34,7 +34,7 @@
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tarunsahanan&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tarunsahnan&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
 <p align="left">
