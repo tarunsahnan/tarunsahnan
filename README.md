@@ -6,8 +6,6 @@
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tarunsahnan98@gmail.com)
 
 
-<br/>
-<br/> 
 
 
 ## Languages and Tools:
@@ -36,5 +34,5 @@
 <br></br>
 <br></br>
 
-<img src ="https://user-images.githubusercontent.com/58820001/163718020-9eca11e2-77fb-4e5a-8ef7-0b3e10d16db5.svg" align = "left" width = 50%>
-<div>
+
+
