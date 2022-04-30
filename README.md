@@ -19,16 +19,16 @@
 ## &#x1f4c8; My GitHub Stats🎯
 <img margin= "40px "width="40%" align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gckusu0myysd5y2czk10e70ogsrwk8bqvl37dvmn&rid=giphy.gif&ct=g" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsahnan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsahnan&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tarunsahnan&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tarunsahnan&theme=outrun&no-frame=true" /></p>
 </details>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunsahnan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsahnan&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunsahnan&show_icons=true&theme=outrun&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsahnan&theme=outrun" />
 </p>  
 
 <a href="https://gitstalk.netlify.app/tarunsahnan/" target="_blank"> See My Latest Activities Here</a>
