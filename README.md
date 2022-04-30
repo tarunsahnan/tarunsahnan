@@ -17,7 +17,7 @@
 </div>
 
 ## &#x1f4c8; My GitHub Stats🎯
-<img marginRight=40px width="40%" align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gckusu0myysd5y2czk10e70ogsrwk8bqvl37dvmn&rid=giphy.gif&ct=g" />
+<img margin= "40px "width="40%" align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gckusu0myysd5y2czk10e70ogsrwk8bqvl37dvmn&rid=giphy.gif&ct=g" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsahnan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
