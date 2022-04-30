@@ -6,9 +6,7 @@
   <img align="left" alt="Tarun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://leetcode.com/tarun_sahnan/">
-  <img align="left" alt="Tarun's LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />
-</a>
+[<img align="top" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />](mailto:mayankranax1@gmail.com)
 
 <a href="http://t.me/tarun_sahnan">
   <img align="left" alt="Tarun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
