@@ -28,7 +28,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunsahnan&show_icons=true&theme=outrun&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsahnan&theme=outrun" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsahnan&theme=shades-of-purple" />
 </p>  
 
 <a href="https://gitstalk.netlify.app/tarunsahnan/" target="_blank"> See My Latest Activities Here</a>
