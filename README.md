@@ -2,21 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsahnan&color=green&style=plastic" alt="tarunsahnan" /> </p>
 
-<a href="https://www.linkedin.com/in/tarun-sahnan/">
-  <img align="left" alt="Tarun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-[<img align="top" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />](mailto:mayankranax1@gmail.com)
-
-<a href="http://t.me/tarun_sahnan">
-  <img align="left" alt="Tarun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://www.instagram.com/tarun_sahnan/">
-  <img align="left" alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tarun-sahnan/)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tarunsahnan98@gmail.com)
 
 
 <br/>
